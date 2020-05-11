@@ -10,7 +10,7 @@ pip install elasticsearch
 ```
 
 ## Usage
-Make a GET request from http://localhost:9200/my_files/_search on you local enviroment to see indexed files.
+Make a GET request to http://localhost:9200/my_files/_search on you local enviroment to see indexed files.
 
 ## License
 
